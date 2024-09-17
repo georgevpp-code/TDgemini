@@ -13,3 +13,5 @@ This component is pretty useful when you need non-TD users to debug your install
 you can get onsite professionals to get their queries answered in their native language.
 
 Also super useful when you want to rework your python/GLSL code from within touchdesigner.
+
+It's important to save the project. Also note that it may be smarter to load the API-KEY via environment variables as opposed to pasting the API key directly everytime
